@@ -1,0 +1,7 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\obj\Debug\tempConverter.csproj.AssemblyReference.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\obj\Debug\tempConverter.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\bin\Debug\tempConverter.exe.config
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\bin\Debug\tempConverter.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\bin\Debug\tempConverter.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\obj\Debug\tempConverter.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\tempConverter\tempConverter\obj\Debug\tempConverter.pdb

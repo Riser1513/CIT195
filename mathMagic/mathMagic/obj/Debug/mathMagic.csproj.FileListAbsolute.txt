@@ -1,0 +1,7 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\bin\Debug\mathMagic.exe.config
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\bin\Debug\mathMagic.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\bin\Debug\mathMagic.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\obj\Debug\mathMagic.csproj.AssemblyReference.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\obj\Debug\mathMagic.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\obj\Debug\mathMagic.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\mathMagic\mathMagic\obj\Debug\mathMagic.pdb
