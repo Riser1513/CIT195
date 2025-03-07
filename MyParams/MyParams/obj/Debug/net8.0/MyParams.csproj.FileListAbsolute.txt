@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\bin\Debug\net8.0\MyParams.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\bin\Debug\net8.0\MyParams.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\bin\Debug\net8.0\MyParams.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\bin\Debug\net8.0\MyParams.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\bin\Debug\net8.0\MyParams.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\refint\MyParams.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\MyParams.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MyParams\MyParams\obj\Debug\net8.0\ref\MyParams.dll

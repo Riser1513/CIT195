@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\bin\Debug\net8.0\MusicArray.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\bin\Debug\net8.0\MusicArray.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\bin\Debug\net8.0\MusicArray.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\bin\Debug\net8.0\MusicArray.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\bin\Debug\net8.0\MusicArray.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\refint\MusicArray.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\MusicArray.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\MusicArray\MusicArray\obj\Debug\net8.0\ref\MusicArray.dll
