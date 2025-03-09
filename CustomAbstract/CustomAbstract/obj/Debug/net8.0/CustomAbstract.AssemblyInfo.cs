@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomAbstract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ce1417ff6452c7282db5365e8f6c6265c8c75a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9087f5d527e0c33c8fd04e5e19dbe1f896de4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomAbstract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomAbstract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

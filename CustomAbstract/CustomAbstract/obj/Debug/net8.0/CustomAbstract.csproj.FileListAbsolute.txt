@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\bin\Debug\net8.0\CustomAbstract.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\bin\Debug\net8.0\CustomAbstract.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\bin\Debug\net8.0\CustomAbstract.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\bin\Debug\net8.0\CustomAbstract.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\bin\Debug\net8.0\CustomAbstract.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\refint\CustomAbstract.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\CustomAbstract.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\CustomAbstract\CustomAbstract\obj\Debug\net8.0\ref\CustomAbstract.dll

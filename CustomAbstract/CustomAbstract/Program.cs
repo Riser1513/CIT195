@@ -9,7 +9,7 @@ namespace CustomAbstract
             public abstract int Number { get; set; }
             public abstract string Name { get; set; }
 
-            public abstract string Display();
+            public abstract void Display();
         }
 
         class Mech : Clash
@@ -23,9 +23,9 @@ namespace CustomAbstract
                 Name = name;
             }
 
-            public override string Display()
+            public override void Display()
             {
-                return $"I just made random stuff. The name of this stuff is {Name} and there are {Number} of them.";
+                Console.WriteLine($"I just made random stuff. The name of this stuff is {Name} and there are {Number} of them.");
             }
         }
         static void Main(string[] args)
