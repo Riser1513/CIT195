@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\bin\Debug\net8.0\WordofTheDay.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\bin\Debug\net8.0\WordofTheDay.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\bin\Debug\net8.0\WordofTheDay.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\bin\Debug\net8.0\WordofTheDay.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\bin\Debug\net8.0\WordofTheDay.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\refint\WordofTheDay.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\WordofTheDay.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\WordofTheDay\WordofTheDay\obj\Debug\net8.0\ref\WordofTheDay.dll
