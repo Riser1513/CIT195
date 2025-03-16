@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\bin\Debug\net8.0\Audit.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\bin\Debug\net8.0\Audit.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\bin\Debug\net8.0\Audit.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\bin\Debug\net8.0\Audit.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\bin\Debug\net8.0\Audit.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\refint\Audit.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\Audit.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Audit\Audit\obj\Debug\net8.0\ref\Audit.dll

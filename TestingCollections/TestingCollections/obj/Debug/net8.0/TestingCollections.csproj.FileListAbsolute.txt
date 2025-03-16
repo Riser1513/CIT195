@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\bin\Debug\net8.0\TestingCollections.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\bin\Debug\net8.0\TestingCollections.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\bin\Debug\net8.0\TestingCollections.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\bin\Debug\net8.0\TestingCollections.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\bin\Debug\net8.0\TestingCollections.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\refint\TestingCollections.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\TestingCollections.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\TestingCollections\TestingCollections\obj\Debug\net8.0\ref\TestingCollections.dll

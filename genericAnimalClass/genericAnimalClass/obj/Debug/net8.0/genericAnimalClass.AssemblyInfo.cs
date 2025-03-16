@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("genericAnimalClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5827a7223c18cf08a8f89c1bef67046cfce27aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c43a87c4e391a8d823e0e9bd990a4727b5c217f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("genericAnimalClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("genericAnimalClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

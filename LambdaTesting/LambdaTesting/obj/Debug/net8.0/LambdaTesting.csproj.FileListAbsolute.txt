@@ -1,0 +1,15 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\bin\Debug\net8.0\LambdaTesting.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\bin\Debug\net8.0\LambdaTesting.deps.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\bin\Debug\net8.0\LambdaTesting.runtimeconfig.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\bin\Debug\net8.0\LambdaTesting.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\bin\Debug\net8.0\LambdaTesting.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.AssemblyInfoInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.AssemblyInfo.cs
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.sourcelink.json
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\refint\LambdaTesting.dll
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\LambdaTesting.genruntimeconfig.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\LambdaTesting\LambdaTesting\obj\Debug\net8.0\ref\LambdaTesting.dll
