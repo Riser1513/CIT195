@@ -1,0 +1,7 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\bin\Debug\Assignment8ex2.exe.config
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\bin\Debug\Assignment8ex2.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\bin\Debug\Assignment8ex2.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\obj\Debug\Assignment8ex2.csproj.AssemblyReference.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\obj\Debug\Assignment8ex2.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\obj\Debug\Assignment8ex2.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\Assignment8ex2\Assignment8ex2\obj\Debug\Assignment8ex2.pdb

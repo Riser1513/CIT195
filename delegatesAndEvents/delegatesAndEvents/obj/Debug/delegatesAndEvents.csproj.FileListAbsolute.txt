@@ -1,0 +1,7 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\bin\Debug\delegatesAndEvents.exe.config
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\bin\Debug\delegatesAndEvents.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\bin\Debug\delegatesAndEvents.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\obj\Debug\delegatesAndEvents.csproj.AssemblyReference.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\obj\Debug\delegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\obj\Debug\delegatesAndEvents.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\delegatesAndEvents\delegatesAndEvents\obj\Debug\delegatesAndEvents.pdb
