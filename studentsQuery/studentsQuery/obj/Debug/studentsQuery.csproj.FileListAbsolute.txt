@@ -1,0 +1,7 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\bin\Debug\studentsQuery.exe.config
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\bin\Debug\studentsQuery.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\bin\Debug\studentsQuery.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\obj\Debug\studentsQuery.csproj.AssemblyReference.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\obj\Debug\studentsQuery.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\obj\Debug\studentsQuery.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\studentsQuery\studentsQuery\obj\Debug\studentsQuery.pdb

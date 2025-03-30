@@ -1,0 +1,7 @@
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\bin\Debug\famousPeople.exe.config
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\bin\Debug\famousPeople.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\bin\Debug\famousPeople.pdb
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\obj\Debug\famousPeople.csproj.AssemblyReference.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\obj\Debug\famousPeople.csproj.CoreCompileInputs.cache
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\obj\Debug\famousPeople.exe
+C:\Users\mattr\OneDrive\Documents\GitHub\CIT195\famousPeople\famousPeople\obj\Debug\famousPeople.pdb
